@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="089221dc-ed53-414a-a25f-db789ff547a6" name="Changes" comment="推送">
+      <change afterPath="$PROJECT_DIR$/524f10cc1e28d7e48c02a9a1e45b24decd4cee852b900-T2lm0Q.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chenshuai923.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/win10-ui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/apointSuc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/consult.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/consultDetail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/consultList.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dbsq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dbsqfybx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dbsqjl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/equity.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jyjl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jysm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/my.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/myOrder.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/registerNow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rsjy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rsjyfybx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rszj.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rszjtw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/subOk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/yndb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/apointSuc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/consult.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/consultDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/consultList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dbsq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dbsqfybx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dbsqjl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/equity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jyjl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jysm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/my.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/myOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/registerNow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rsjy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rsjyfybx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rszj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rszjtw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/subOk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/yndb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apoint/apointSuc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/consult/consult-over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/consult/upload-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/db/db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/db/jhc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equity/ghyy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equity/jyxz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equity/jyzx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equity/zyts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home-select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/ghyy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/hot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/hot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/nav-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/nav-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/nav-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/nav-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home/qcjyxz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my-select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/arrow-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/my-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/my-nav-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/my-nav-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/my-nav-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my/my-nav-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/rsjy-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/rsjy-f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/rsjy-f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/rsjy-f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsjy/rsjy-nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/apointSuc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/consult.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/consultDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/consultList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dbsq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dbsqfybx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dbsqjl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/equity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jyjl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jysm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/registerNow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rsjy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rsjyfybx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rszj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rszjtw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/subOk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/yndb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/MultiPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/swiper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/MultiPicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/city.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jdate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/rem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/swiper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/zzRep.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hohGAWNcyvSo2SXO5qkzgGSdsu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/chenshuai923.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\chenshuai923.github.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089221dc-ed53-414a-a25f-db789ff547a6" name="Changes" comment="" />
+      <created>1718266240058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718266240058</updated>
+      <workItem from="1718266241849" duration="2804000" />
+      <workItem from="1718936342484" duration="196000" />
+      <workItem from="1718936575158" duration="81000" />
+    </task>
+    <task id="LOCAL-00001" summary="博客">
+      <created>1718266782830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718266782830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="win10">
+      <created>1718267483041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718267483041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="win10">
+      <created>1718268627425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718268627425</updated>
+    </task>
+    <task id="LOCAL-00004" summary="推送">
+      <created>1718268719867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718268719867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="博客" />
+    <MESSAGE value="win10" />
+    <MESSAGE value="推送" />
+    <option name="LAST_COMMIT_MESSAGE" value="推送" />
+  </component>
+</project>
